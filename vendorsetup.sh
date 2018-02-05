@@ -1,0 +1,2 @@
+add_lunch_combo omni_z2_row-eng
+add_lunch_combo omni_z2_row-userdebug
